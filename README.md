@@ -1,2 +1,3 @@
-# postgresqlconnector1c
-ОМ/расширение для работы с внешней БД PostrgreSQL из контекста 1С
+# postgreconnector1c
+
+ОМ/расширение для подключение к PostgreSQL (на текущий момент умеет только читать с помощью COM объекта ADO)
